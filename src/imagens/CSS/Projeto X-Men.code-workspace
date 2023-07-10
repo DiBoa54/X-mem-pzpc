@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Projeto X-Men",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imagens"
+	}
+}
